@@ -4,7 +4,7 @@
 
 > _Seamless automates the deployment process from push to Prod_
 
-**Seamless** is a self-hosted, open-source, cloud-native CI/CD solution tailored for microservices. Seamless offers a low-configuration platform for automating the testing, building, and deployment of containerized microservice applications.
+Seamless is a self-hosted, open-source, cloud-native CI/CD solution tailored for microservices. Seamless offers a low-configuration platform for automating the testing, building, and deployment of containerized microservice applications.
 
 ![stages](https://user-images.githubusercontent.com/74154385/229130723-0efd94c5-db15-403c-a1da-b95a1b26d9b8.svg)
 
